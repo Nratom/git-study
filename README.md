@@ -5,3 +5,8 @@
 - git pushコマンドで、ローカルのコミットをリモートのリポジトリに反映させることができる
 
 - mergeの前に変更した
+<<<<<<< HEAD
+=======
+- kontikuwa
+- fjkdjfkdj
+>>>>>>> d798b7aeae4275b237f7a5b670bc87934fcdfb7e
