@@ -6,4 +6,5 @@
 
 - mergeの前に変更した
 - フィニッシュ
-- fjkdjfkdj
+- fjkdjfk
+- jkjkdjksjkaja;a;sakfjkdjf
