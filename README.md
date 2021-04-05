@@ -6,9 +6,5 @@
 
 - mergeの前に変更した
 - フィニッシュ
-- fjkdjfk
-<<<<<<< HEAD
-- こんにち
-=======
-- jkjkdjksjkコンフリクト
->>>>>>> 6243359532f39b2db0d926bdb9640ef0192b70ba
+- fjkdjf
+- jkjkdjk
